@@ -1,7 +1,7 @@
 ![MasterHead](https://www.hcltechsw.com/wps/wcm/connect/6c362ef8-523b-4bec-849b-eac1ebcb9c12/Untitled-11.gif?MOD=AJPERES&CACHEID=ROOTWORKSPACE-6c362ef8-523b-4bec-849b-eac1ebcb9c12-nYLB-e1)
 <h1 align="center">Hi 👋, I'm Saeed Al_BerZawi</h1>
 <h3 align="center">A passionate frontend developer from Syria</h3>
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="logo" />
+<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="logo" width=100%/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeedberzawi&label=Profile%20views&color=0e75b6&style=flat" alt="saeedberzawi" /> </p>
 
